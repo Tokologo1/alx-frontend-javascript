@@ -1,3 +1,3 @@
-import { taskfirst, taskNext } from './0-constant.js';
+import { taskFirst, taskNext } from './0-constant.js';
 
-console.log('${taskfirst()} ${taskNext()}');
+console.log('${taskFirst()} ${taskNext()}');
