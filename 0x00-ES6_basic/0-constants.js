@@ -8,6 +8,8 @@ export function taskFirst() {
 }
 
 export function getLast() {
+  "Testing files";
+  
   return ' is okay';
 }
 
